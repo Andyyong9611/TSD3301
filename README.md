@@ -1,5 +1,5 @@
 # TDS3301 Tutorial 4
-Below is ETL.
+Below is the information of ETL.
 -	Talend
 -	Sciptella
 -	Ketl
